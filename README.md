@@ -1,6 +1,4 @@
-# Project Title
-
-Description of the project goes here.
+# Installment Module
 
 ## How to Run
 
